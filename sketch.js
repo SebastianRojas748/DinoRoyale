@@ -128,7 +128,7 @@ drawmain = function() {
 
   //  //room title
    fill(titleFill);
-   text('choose dino with #2-6', textXPos, textYPos); 
+   text('choose dino with #1-5', textXPos, textYPos); 
 
     //nav keys
    //bounding position one
